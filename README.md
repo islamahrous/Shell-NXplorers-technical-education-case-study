@@ -3,11 +3,6 @@
 A Systems Thinking Case Study using Shell NXplorers
 
 ## Overview 
-Increasing Technical Education Enrollment in Alexandria
-
-A Systems Thinking Case Study using the Shell NXplorers Methodology
-
-Overview
 
 This repository presents a collaborative case study developed during the Shell NXplorers Pro Workshop. The project applies systems thinking and innovation methodologies to address the challenge of low enrollment in technical education in Alexandria, Egypt.
 
