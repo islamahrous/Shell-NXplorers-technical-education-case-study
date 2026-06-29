@@ -1,15 +1,93 @@
-#
-Title
-Increasing Technical Education Enrollment in Alexandria:
+# Increasing Technical Education Enrollment in Alexandria:
+
 A Systems Thinking Case Study using Shell NXplorers
-Introduction
-This repository presents the outcome of a team project developed during the Shell NXplorers Pro Workshop.
 
-The project applies systems thinking, stakeholder analysis, and innovation methodologies to address one of Egypt's important educational challenges:
+## Overview 
+Increasing Technical Education Enrollment in Alexandria
 
-How can we increase student enrollment in technical education in Alexandria by 10% by 2030?
+A Systems Thinking Case Study using the Shell NXplorers Methodology
 
-The work was completed collaboratively during an intensive three-day workshop.
+Overview
+
+This repository presents a collaborative case study developed during the Shell NXplorers Pro Workshop. The project applies systems thinking and innovation methodologies to address the challenge of low enrollment in technical education in Alexandria, Egypt.
+
+Our team analyzed the problem from multiple perspectives, identified key stakeholders and root causes, evaluated potential interventions, and proposed a scalable solution aimed at increasing student enrollment while strengthening collaboration between education and industry.
+
+---
+
+## Problem Statement
+
+How can we increase student enrollment in technical education in Alexandria Governorate from 29,700 to 32,700 students by 2030?
+
+This project focuses on understanding the factors influencing students' educational choices and developing practical solutions that create long-term value for students, industry, and society.
+
+---
+
+## Objectives
+
+- Identify the root causes of low enrollment in technical education.
+- Analyze the relationships between stakeholders and influencing factors.
+- Evaluate potential solutions using structured decision-making tools.
+- Propose an innovative and sustainable solution.
+
+---
+
+## Methodology
+
+The project follows the Shell NXplorers framework and incorporates:
+
+- Problem Definition
+- Systems Thinking
+- Connection Circle Analysis
+- Stakeholder Analysis
+- Surveys and Interviews
+- Feasibility Funnel
+- Solution Design
+
+---
+
+## Proposed Solution
+
+Our team proposed a solution centered on increasing public awareness of technical education while strengthening partnerships between industry, schools, and government. The approach aims to improve career visibility, expand practical learning opportunities, and enhance the public perception of technical education as a valuable career pathway.
+
+---
+
+## Team
+
+STIM Team
+
+- Islam Mahrous
+- Sameh Al-Tohamy
+- Taha Hussein
+- Mahmoud El-Gehiny
+- Mahmoud Abdel Raziq
+
+---
+
+## Skills Demonstrated
+
+- Systems Thinking
+- Problem Solving
+- Stakeholder Analysis
+- Root Cause Analysis
+- Innovation
+- Design Thinking
+- Team Collaboration
+- Presentation & Communication
+
+---
+
+## Repository Contents
+
+- Project presentation (PDF)
+- Supporting diagrams and figures
+- Project documentation
+
+---
+
+## Acknowledgements
+
+This project was completed as part of the Shell NXplorers Pro Workshop. The work reflects the collaborative efforts of the project team and was developed for educational and learning purposes using the Shell NXplorers innovation methodology.
 
 Problem Statement 
 Technical education in Alexandria experiences lower enrollment than desired despite increasing industrial demand for skilled technicians.
